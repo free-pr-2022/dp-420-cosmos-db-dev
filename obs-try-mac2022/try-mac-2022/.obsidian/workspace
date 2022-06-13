@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "10523cb6f5ef5120",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e1aad93f96e3fe4",
+        "type": "leaf",
+        "dimension": 47.9064039408867,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Azure Cosmos DB/Init/10. Process bulk data in Azure Cosmos DB SQL API.md",
+            "mode": "source"
+          }
+        },
+        "group": "4dccf03d82b6e8c5"
+      },
+      {
+        "id": "11d5c6c8370fb1df",
+        "type": "leaf",
+        "dimension": 52.0935960591133,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Azure Cosmos DB/Init/10. Process bulk data in Azure Cosmos DB SQL API.md",
+            "mode": "preview"
+          }
+        },
+        "group": "4dccf03d82b6e8c5"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3786b2389aa355d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f97e532ad94c841c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6642e0a3a71185a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0dce015dfca172af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236
+  },
+  "right": {
+    "id": "a6797d9cb13a7768",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed1dc6bdb30d66f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c15afae94996aed0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Azure Cosmos DB/Init/10. Process bulk data in Azure Cosmos DB SQL API.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 196,
+    "collapsed": true
+  },
+  "active": "0e1aad93f96e3fe4",
+  "lastOpenFiles": [
+    "Azure Cosmos DB/Init/10. Process bulk data in Azure Cosmos DB SQL API.md",
+    "Azure Cosmos DB/Init/9. Perform cross-document transactional operations with the Azure Cosmos DB SQL API.md",
+    "Azure Cosmos DB/Link.md",
+    "Azure Cosmos DB/Init/8. Implement Azure Cosmos DB SQL API point operations.md",
+    "Azure Cosmos DB/Init/7. Configure the Azure Cosmos DB SQL API SDK.md",
+    "Azure Cosmos DB/Init/link-chalenge.md",
+    "8.Implement Azure Cosmos DB SQL API point operations.md",
+    "Azure Cosmos DB/Init/6. Use the Azure Cosmos DB SQL API SDK.md",
+    "Azure Cosmos DB/Init/5. Move data into and out of Azure Cosmos DB SQL API.md",
+    "Azure Cosmos DB/Init/4. Configure Azure Cosmos DB SQL API database and containers.md"
+  ]
+}
