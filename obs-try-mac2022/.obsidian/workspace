@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "try-mac-2022/Azure Cosmos DB/Init/11. Query the Azure Cosmos DB SQL API.md",
+            "file": "try-mac-2022/Azure Cosmos DB/Init/12. Author complex queries with the Azure Cosmos DB SQL API.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "try-mac-2022/Azure Cosmos DB/Init/11. Query the Azure Cosmos DB SQL API.md",
-            "mode": "source"
+            "file": "try-mac-2022/Azure Cosmos DB/Init/12. Author complex queries with the Azure Cosmos DB SQL API.md",
+            "mode": "preview"
           }
         },
         "group": "5d71b6d8ad63ad1b"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "try-mac-2022/Azure Cosmos DB/Init/11. Query the Azure Cosmos DB SQL API.md",
+                "file": "try-mac-2022/Azure Cosmos DB/Init/12. Author complex queries with the Azure Cosmos DB SQL API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +101,9 @@
   },
   "active": "5cce754304ed2854",
   "lastOpenFiles": [
-    "try-mac-2022/Azure Cosmos DB/Init/11. Query the Azure Cosmos DB SQL API.md",
+    "try-mac-2022/Azure Cosmos DB/Init/12. Author complex queries with the Azure Cosmos DB SQL API.md",
     "try-mac-2022/Azure Cosmos DB/Init/link-chalenge.md",
-    "try-mac-2022/Azure Cosmos DB/Link.md"
+    "try-mac-2022/Azure Cosmos DB/Link.md",
+    "try-mac-2022/Azure Cosmos DB/Init/11. Query the Azure Cosmos DB SQL API.md"
   ]
 }
