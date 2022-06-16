@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "try-mac-2022/unt.md",
+            "file": "try-mac-2022/Azure Cosmos DB/Init/18.** Implement a non-relational data model.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "try-mac-2022/unt.md",
+            "file": "try-mac-2022/Azure Cosmos DB/Init/18.** Implement a non-relational data model.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "try-mac-2022/unt.md",
+                "file": "try-mac-2022/Azure Cosmos DB/Init/18.** Implement a non-relational data model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "5cce754304ed2854",
   "lastOpenFiles": [
+    "try-mac-2022/Azure Cosmos DB/Init/18.** Implement a non-relational data model.md",
+    "try-mac-2022/Azure Cosmos DB/Init/link-chalenge.md",
+    "try-mac-2022/Azure Cosmos DB/Init/17. Search Azure Cosmos DB SQL API data with Azure Cognitive Search.md",
     "try-mac-2022/unt.md",
     "try-mac-2022/Azure Cosmos DB/Init/8. Implement Azure Cosmos DB SQL API point operations.md",
     "try-mac-2022/Azure Cosmos DB/Init/16. Handle events with Azure Functions and Azure Cosmos DB SQL API change feed.md",
     "try-mac-2022/Azure Cosmos DB/Init/Untitled.md",
     "try-mac-2022/Azure Cosmos DB/Init/15. Consume an Azure Cosmos DB SQL API change feed using the SDK.md",
-    "try-mac-2022/Azure Cosmos DB/Init/link-chalenge.md",
     "try-mac-2022/Azure Cosmos DB/Init/14. Customize indexes in Azure Cosmos DB SQL API.md",
-    "try-mac-2022/Azure Cosmos DB/Link.md",
-    "try-mac-2022/Azure Cosmos DB/Init/13. Define indexes in Azure Cosmos DB SQL API.md",
-    "try-mac-2022/Azure Cosmos DB/Init/12. Author complex queries with the Azure Cosmos DB SQL API.md"
+    "try-mac-2022/Azure Cosmos DB/Link.md"
   ]
 }
