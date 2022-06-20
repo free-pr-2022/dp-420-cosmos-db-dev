@@ -1,1 +1,6 @@
-{}
+{
+  "baseFontSize": 23,
+  "interfaceFontFamily": "Futura",
+  "cssTheme": "Big Sur Aesthetic",
+  "theme": "obsidian"
+}

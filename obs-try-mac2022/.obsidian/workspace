@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5cce754304ed2854",
+        "id": "c753d5008844f410",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "try-mac-2022/Azure Cosmos DB/Init/18.** Implement a non-relational data model.md",
-            "mode": "source"
+            "file": "try-mac-2022/Azure Cosmos DB/Init/30, Expand query and transaction functionality in Azure Cosmos DB SQL API.md",
+            "mode": "source",
+            "source": false
           }
-        },
-        "group": "5d71b6d8ad63ad1b"
-      },
-      {
-        "id": "13053a3a01798e97",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "try-mac-2022/Azure Cosmos DB/Init/18.** Implement a non-relational data model.md",
-            "mode": "preview"
-          }
-        },
-        "group": "5d71b6d8ad63ad1b"
+        }
       }
     ],
     "direction": "vertical"
@@ -65,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 359.99999809265137
   },
   "right": {
     "id": "0fabaf0aa5ce8301",
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "try-mac-2022/Azure Cosmos DB/Init/18.** Implement a non-relational data model.md",
+                "file": "try-mac-2022/Azure Cosmos DB/Init/30, Expand query and transaction functionality in Azure Cosmos DB SQL API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5cce754304ed2854",
+  "active": "c753d5008844f410",
   "lastOpenFiles": [
-    "try-mac-2022/Azure Cosmos DB/Init/18.** Implement a non-relational data model.md",
+    "try-mac-2022/Azure Cosmos DB/Init/30, Expand query and transaction functionality in Azure Cosmos DB SQL API.md",
+    "try-mac-2022/Azure Cosmos DB/Init/29. Build multi-item transactions with the Azure Cosmos DB SQL API.md",
+    "try-mac-2022/Azure Cosmos DB/Init/28, Create resource template for Azure Cosmos DB SQL API.md",
+    "try-mac-2022/Azure Cosmos DB/Init/27. Write management scripts for Azure Cosmos DB SQL API.md",
     "try-mac-2022/Azure Cosmos DB/Init/link-chalenge.md",
-    "try-mac-2022/Azure Cosmos DB/Init/17. Search Azure Cosmos DB SQL API data with Azure Cognitive Search.md",
-    "try-mac-2022/unt.md",
-    "try-mac-2022/Azure Cosmos DB/Init/8. Implement Azure Cosmos DB SQL API point operations.md",
-    "try-mac-2022/Azure Cosmos DB/Init/16. Handle events with Azure Functions and Azure Cosmos DB SQL API change feed.md",
-    "try-mac-2022/Azure Cosmos DB/Init/Untitled.md",
-    "try-mac-2022/Azure Cosmos DB/Init/15. Consume an Azure Cosmos DB SQL API change feed using the SDK.md",
-    "try-mac-2022/Azure Cosmos DB/Init/14. Customize indexes in Azure Cosmos DB SQL API.md",
-    "try-mac-2022/Azure Cosmos DB/Link.md"
+    "try-mac-2022/Azure Cosmos DB/Init/26. Implement security in Azure Cosmos DB SQL API.md",
+    "try-mac-2022/Azure Cosmos DB/Init/25. Implement backup and restore for Azure Cosmos DB SQL API.md",
+    "try-mac-2022/Azure Cosmos DB/Init/24. **Monitor responses and events in Azure Cosmos DB SQL API.md",
+    "try-mac-2022/Azure Cosmos DB/Init/19. **Design a data partitioning strategy.md",
+    "try-mac-2022/Azure Cosmos DB/Init/23. Measure performance in Azure Cosmos DB SQL API.md"
   ]
 }
